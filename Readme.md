@@ -68,6 +68,10 @@ I'm a dedicated full stack developer with a focus on building scalable web appli
   </tr>
   <tr>
     <td><a href="https://www.typescriptlang.org/"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript" /></a></td>
+    <td><a href="https://www.microsoft.com/en-us/microsoft-365"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" width="40" height="40" alt="office365" /></a></td>
+    <td><a href="https://www.apple.com/macos/"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40" alt="macos" /></a></td>
+    <td><a href="https://www.microsoft.com/en-us/windows"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40" alt="windows" /></a></td>
+    <td><a href="https://code.visualstudio.com/"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode" /></a></td>
   </tr>
 </table>
 
