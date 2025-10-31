@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pauliaszfalvi&label=Profile%20views&color=0e75b6&style=flat" alt="pauliaszfalvi" />
+  <img src="https://komarev.com/ghpvc/?username=pauliaszfalvi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pauliaszfalvi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="pauliaszfalvi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pauliaszfalvi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophy" />
   </a>
 </div>
 
@@ -18,10 +18,21 @@ I'm a dedicated full stack developer with a focus on building scalable web appli
 - 💬 Ask me about: **React, Angular, Python**
 - 📫 Reach me: **paul.iaszfalvi@gmail.com**
 
+### Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [News Aggregator](https://github.com/PaulIaszfalvi/Aggregator-2.0) | A modern news aggregator app for curated content. | React, Node.js, MongoDB |
+| [React Pics Search](https://github.com/PaulIaszfalvi/react-PicsSearch) | Search and display images from APIs. | React, JavaScript |
+| [React YouTube API](https://github.com/PaulIaszfalvi/React-YoutubeAPI) | Search and play YouTube videos via API. | React, JavaScript |
+
 ### Connect
 <p align="center">
   <a href="https://linkedin.com/in/paul-iaszfalvi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://responsive-portfolio-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -64,9 +75,7 @@ I'm a dedicated full stack developer with a focus on building scalable web appli
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pauliaszfalvi&show_icons=true&locale=en&layout=compact&theme=radical" alt="pauliaszfalvi" />
   &nbsp;&nbsp;
-
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauliaszfalvi&theme=radical" alt="pauliaszfalvi" />
 </div>
