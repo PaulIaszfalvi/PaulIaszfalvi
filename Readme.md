@@ -60,15 +60,4 @@ I'm a dedicated full stack developer with a focus on building scalable web appli
   </tr>
 </table>
 
-### Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pauliaszfalvi&show_icons=true&locale=en&layout=compact&theme=radical" alt="pauliaszfalvi" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=pauliaszfalvi&show_icons=true&locale=en&theme=radical" alt="pauliaszfalvi" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauliaszfalvi&theme=radical" alt="pauliaszfalvi" />
-</div>
-
 > When not coding, you'll find me brewing coffee or exploring mountain trails. ☕🏔️
