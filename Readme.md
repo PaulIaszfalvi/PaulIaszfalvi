@@ -49,7 +49,7 @@ I'm a dedicated full stack developer with a focus on building scalable web appli
     <td><a href="https://git-scm.com/"><img style="filter: invert(1);" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git" /></a></td>
     <td><a href="https://www.w3.org/html/"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5" /></a></td>
     <td><a href="https://www.java.com"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java" /></a></td>
-    <td><a href="https://expressjs.com"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express" /></a></td>
+    <td><a href="https://expressjs.com"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/simpleicons/simpleicons/master/icons/express.svg" width="40" height="40" alt="express" /></a></td>
     <td><a href="https://www.photoshop.com/en"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="40" height="40" alt="photoshop" /></a></td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ I'm a dedicated full stack developer with a focus on building scalable web appli
   </tr>
   <tr>
     <td><a href="https://www.typescriptlang.org/"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript" /></a></td>
-    <td><a href="https://www.microsoft.com/en-us/microsoft-365"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/office/office-original.svg" width="40" height="40" alt="office" /></a></td>
+    <td><a href="https://www.microsoft.com/en-us/microsoft-365"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/simpleicons/simpleicons/master/icons/microsoft365.svg" width="40" height="40" alt="office365" /></a></td>
     <td><a href="https://www.apple.com/macos/"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40" alt="macos" /></a></td>
     <td><a href="https://www.microsoft.com/en-us/windows"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40" alt="windows" /></a></td>
     <td><a href="https://code.visualstudio.com/"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode" /></a></td>
