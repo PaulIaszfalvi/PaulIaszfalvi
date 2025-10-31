@@ -49,7 +49,7 @@ I'm a dedicated full stack developer with a focus on building scalable web appli
     <td><a href="https://git-scm.com/"><img style="filter: invert(1);" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git" /></a></td>
     <td><a href="https://www.w3.org/html/"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5" /></a></td>
     <td><a href="https://www.java.com"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java" /></a></td>
-    <td><a href="https://expressjs.com"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/simpleicons/simpleicons/master/icons/express.svg" width="40" height="40" alt="express" /></a></td>
+    <td><a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg" width="40" height="40" alt="express" /></a></td>
     <td><a href="https://www.photoshop.com/en"><img style="filter: invert(1);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="40" height="40" alt="photoshop" /></a></td>
   </tr>
   <tr>
