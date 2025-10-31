@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pauliaszfalvi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pauliaszfalvi&label=Profile%20views&color=0e75b6&style=flat" alt="pauliaszfalvi" />
   &nbsp;&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pauliaszfalvi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pauliaszfalvi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="pauliaszfalvi" />
   </a>
 </div>
 
@@ -59,5 +59,16 @@ I'm a dedicated full stack developer with a focus on building scalable web appli
     <td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript" /></a></td>
   </tr>
 </table>
+
+### Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pauliaszfalvi&show_icons=true&locale=en&layout=compact&theme=radical" alt="pauliaszfalvi" />
+  &nbsp;&nbsp;
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauliaszfalvi&theme=radical" alt="pauliaszfalvi" />
+</div>
 
 > When not coding, you'll find me brewing coffee or exploring mountain trails. ☕🏔️
